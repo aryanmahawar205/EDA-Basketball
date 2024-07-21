@@ -1,5 +1,5 @@
 # EDA-Basketball
-Web App deployed using Streamlit to perform EDA and display and download player stats from 1950 to 2024.
+Web App deployed using Streamlit to perform EDA on NBA player stats from 1950 to 2024.
 
 ### Steps to run :
 
